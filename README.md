@@ -8,5 +8,8 @@ basic react templete
 ### then run->
 ```npm start```
 
+### open browser and 
+```http://localhost:1234```
+
 enjoy :)
  
